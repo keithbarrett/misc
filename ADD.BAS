@@ -6,8 +6,7 @@
 	!		Module Title	:	Calculater program
 	!		Version		:	01
 	!		Edit		:	01
-	!		Author		:	Keith G. Barrett
-	!		Creation Date	:	20-May-1983
+	!		Author		:	Keith Barrett
 	!
 	!++
 	!
