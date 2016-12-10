@@ -1,12 +1,12 @@
 
-/*   ADD.C         Keith G. Barrett      7/7/88
+/*   ADD.C         Keith Barrett
 
    Simple calculator program
 
 
    REVISIONS:
    
-    23-Aug-1990         Rev 3.0 release for Lattice 5.04
+    23-Aug-1990         Rev 3.0 release for Lattice C 5.04
 
 */
 
